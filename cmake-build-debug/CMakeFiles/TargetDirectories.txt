@@ -1,0 +1,3 @@
+/Users/oleglesnoy/Desktop/KUB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/oleglesnoy/Desktop/KUB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/oleglesnoy/Desktop/KUB/cmake-build-debug/CMakeFiles/KUB.dir
